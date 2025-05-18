@@ -6,7 +6,6 @@ categories: website
 tags: [Github, website]
 ---
 
-## How I built my website
 Created a free GitHub account.  
 Forked the Jekyll blog template repository.  
 Renamed the repository to `serena1gaspa.github.io` to enable GitHub Pages hosting.  
