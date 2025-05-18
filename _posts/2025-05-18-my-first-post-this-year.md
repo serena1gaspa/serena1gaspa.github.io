@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Ihave built my website
+title: How I've built my website
 subtitle: quick summary
 categories: website
 tags: [Github, website]
